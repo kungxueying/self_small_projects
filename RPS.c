@@ -1,12 +1,9 @@
-// Online C compiler to run C program online
 #include <stdio.h>
 #define PAPER 0
 #define SCISSORS 1
 #define ROCK 2
 
 int main() {
-    // Write C code here
-    
     int player_choice;
     int computer_choice;
     int diff;
